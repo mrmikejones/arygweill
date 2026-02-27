@@ -5,5 +5,7 @@ body {
     max-width: 700px;
     text-align: left;
     position: relative;
+    background-color: black;
+    color: white;
 }
 
